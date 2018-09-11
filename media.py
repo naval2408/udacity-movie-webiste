@@ -1,6 +1,7 @@
 """A class containing information about the movies"""
 import webbrowser
 
+
 class Movie(object):
     """Blueprint for the object of type movies.
     Attributes:
